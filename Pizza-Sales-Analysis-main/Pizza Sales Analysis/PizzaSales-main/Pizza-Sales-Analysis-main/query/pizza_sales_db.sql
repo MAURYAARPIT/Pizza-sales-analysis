@@ -1,5 +1,5 @@
 /* © 2023 Tushar Aggarwal. All rights reserved. 
-https://github.com/tushar2704/
+
 Pizza_Sales_Analysis
 */
 /*---------------------------Creating DB----------------------------------------------------*/
@@ -36,7 +36,7 @@ FROM 'D:\Pizza-Sales-Analysis\src\data\pizza_sales.csv'
 WITH (FORMAT CSV, HEADER);
 
 ------------------------------------------------------------------------------------------------------------
-/* © 2023 Tushar Aggarwal. All rights reserved. 
+/* © 2025 Arpit Maurya. All rights reserved. 
 https://github.com/tushar2704/
 Pizza_Sales_Analysis
 */
