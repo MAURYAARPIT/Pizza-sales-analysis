@@ -1,5 +1,4 @@
-/* © 2023 Tushar Aggarwal. All rights reserved. 
-@https://github.com/tushar2704/
+/* © 2025 Arpit Maurya. All rights reserved. 
 Pizza-Sales-Analysis
 */
 SELECT * FROM pizza_sales;
